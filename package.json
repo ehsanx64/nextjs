@@ -1,0 +1,23 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "A simple project using Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsanx64/nextjs.git"
+  },
+  "keywords": [
+    "nextjs",
+    "ssr-app"
+  ],
+  "author": "Ehsan Mohammadi <ehsanx64@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehsanx64/nextjs/issues"
+  },
+  "homepage": "https://github.com/ehsanx64/nextjs#readme"
+}
