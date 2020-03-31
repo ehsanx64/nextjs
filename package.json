@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ehsanx64/nextjs#readme",
   "dependencies": {
-    "next": "^9.3.0",
+    "next": "^9.3.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
