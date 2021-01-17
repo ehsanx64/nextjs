@@ -1,6 +1,6 @@
 import { Component } from 'react'
 import 'react-dom'
-import Page from '../modules/Page'
+import Page from '../libs/Page'
 
 class HomePage extends Page {
     constructor(props) {
